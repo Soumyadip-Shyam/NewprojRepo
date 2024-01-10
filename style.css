@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+*{
+    color:white
+}
+img{
+    margin-top: 100px;
+    border: 1.5px solid rgb(254, 254, 254) ;
+    color: white;
+    margin-left: 200px;
+
+
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    margin-left: 150px;
+}
+h2{
+    color:greenyellow;
+    margin-left: 10px;
+}
+p{
+    margin-left: 200px;
+    font-style: italic;
+    
+    
+}
